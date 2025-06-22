@@ -1,2 +1,2 @@
 # BetterZermelo
-Tools voor Zermelo
+Een client voor Zermelo
